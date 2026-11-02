@@ -21,4 +21,3 @@ I work with agentic AI in both directions:
 - [appium-ai-mobile-agent](https://github.com/hmodali2611/appium-ai-mobile-agent): native Android and iOS testing with Appium, self-healing locators, and exploratory testing verified on a real emulator.
 - [shortly](https://github.com/hmodali2611/shortly): a Java and Spring Boot URL shortener with PostgreSQL, Redis, and click analytics.
 
-Note on titles: Senior SDET is my professional brand. My Apple experience title is Quality Assurance Engineer, Mobile QA Lead.
